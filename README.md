@@ -9,6 +9,7 @@
 ## About Me
 
 I am a developer focused on building maintainable, production-ready web applications.
+
 I enjoy turning ideas into practical products with thoughtful design, clean code, and dependable architecture.
 
 ## Core Skills
