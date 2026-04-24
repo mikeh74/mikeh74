@@ -8,9 +8,13 @@
 
 ## About Me
 
-I am a developer focused on building maintainable, production-ready web applications.
+Developer focused on building maintainable, production-ready solutions.
 
-I enjoy turning ideas into practical products with thoughtful design, clean code, and dependable architecture.
+Full stack web developer with a passion for crafting clean, reliable applications that perform well and provide a great user experience.
+
+With over 15 years of experience in software development, building web applications that are not only functional but also maintainable and scalable.
+
+The main focus of the public repositories here on github is on reusable code and libraries that can be used across multiple projects, rather than on specific applications or projects.
 
 ## Core Skills
 
@@ -29,10 +33,10 @@ I enjoy turning ideas into practical products with thoughtful design, clean code
 
 ## What I Focus On
 
-- Building robust backend services with Python and Django
-- Crafting responsive, accessible interfaces with JavaScript and CSS
-- Shipping polished, mobile-friendly layouts with Bootstrap
-- Writing code that is easy to read, test, and scale
+* Building robust backend services with Python and Django
+* Crafting responsive, accessible interfaces with JavaScript and CSS
+* Shipping polished, mobile-friendly layouts with Bootstrap
+* Writing code that is easy to read, test, and scale
 
 ## GitHub Snapshot
 
