@@ -8,13 +8,11 @@
 
 ## About Me
 
-Developer focused on building maintainable, production-ready solutions.
+Developer focused on building maintainable, production-ready web solutions.
 
-Full stack web developer with a passion for crafting clean, reliable applications that perform well and provide a great user experience.
+Builds clean, reliable applications that perform well and provide a great user experience.
 
-With over 15 years of experience in software development, building web applications that are not only functional but also maintainable and scalable.
-
-The main focus of the public repositories here on github is on reusable code and libraries that can be used across multiple projects, rather than on specific applications or projects.
+With 15+ years in software development, the public repositories here focus on reusable code and libraries that support multiple projects.
 
 ## Core Skills
 
