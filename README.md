@@ -4,10 +4,6 @@
 	Building clean, reliable web applications with a focus on performance and user experience.
 </p>
 
-<!-- <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&width=600&lines=Python+and+Django+Developer;Modern+JavaScript+for+Interactive+UI;Professional%2C+Scalable+Web+Solutions" alt="Typing intro" />
-</p> -->
-
 ---
 
 ## About Me
@@ -22,7 +18,12 @@ I enjoy turning ideas into practical products with thoughtful design, clean code
 	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+	<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+	<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+	<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
 </p>
 
 ## What I Focus On
@@ -41,9 +42,9 @@ I enjoy turning ideas into practical products with thoughtful design, clean code
 
 ---
 
-<div class="quote">
+<p align="center" class="quote">
 <q>They give birth astride of a grave,<br>
 the light gleams an instant,<br>
 then it's night once more.</q><br>
 <cite>— Samuel Beckett, <i>Waiting for Godot</i></cite>
-</div>
+</p>
