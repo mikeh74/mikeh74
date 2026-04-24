@@ -22,9 +22,9 @@ q {
 	Building clean, reliable web applications with a focus on performance and user experience.
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&width=600&lines=Python+and+Django+Developer;Modern+JavaScript+for+Interactive+UI;Professional%2C+Scalable+Web+Solutions" alt="Typing intro" />
-</p>
+</p> -->
 
 ---
 
