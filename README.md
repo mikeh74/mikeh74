@@ -10,7 +10,7 @@
 
 Developer focused on building maintainable, production-ready web solutions.
 
-Builds clean, reliable applications that perform well and provide a great user experience.
+Building clean, reliable applications that perform well and provide a great user experience.
 
 With 15+ years in software development, the public repositories here focus on reusable code and libraries that support multiple projects.
 
