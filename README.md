@@ -1,23 +1,5 @@
 # Mike Horrocks
 
-<style>
-
-.quote {
-  margin: 2em auto;
-  padding: 1em;
-  max-width: 600px;
-  border-left: 4px solid #E5E7EB;
-  background-color: #F9FAFB;
-}
-
-q {
-  font-size: 1.25em;
-  font-style: italic;
-  color: #4B5563;
-}
-
-</style>
-
 <p align="center">
 	Building clean, reliable web applications with a focus on performance and user experience.
 </p>
