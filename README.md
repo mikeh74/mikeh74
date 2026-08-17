@@ -49,6 +49,7 @@ With 20+ years in software development, the public repositories here mostly focu
 <q>At midnight all the agents, <br>
 and the superhuman crew, <br>
 come out and round up everyone <br>
-that knows more than they do<q><br>
+that knows more than they do<q></p>
+<p align="center">
 <cite>— Bob Dylan, <i>Desolation Row</i></cite>
 </p>
